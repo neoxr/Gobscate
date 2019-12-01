@@ -10,5 +10,5 @@ $ pkg install php
 $ cd /sdcard
 $ git clone https://github.com/neoxr/Gobscate
 $ cd Gobscate
-$ php gobs.php
+$ php gobs
 ```
